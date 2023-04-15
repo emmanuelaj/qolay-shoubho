@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Serto Urhoy';
+    src: url('fonts/FACEBOOKSERTOFONT.eot');
+    src: url('fonts/FACEBOOKSERTOFONT.eot?#iefix') format('embedded-opentype'),
+         url('fonts/FACEBOOKSERTOFONT.woff2') format('woff2'),
+         url('fonts/FACEBOOKSERTOFONT.woff') format('woff'),
+         url('fonts/FACEBOOKSERTOFONT.ttf')  format('truetype'),
+         url('fonts/FACEBOOKSERTOFONT.svg#Serto Urhoy') format('svg');
+}
