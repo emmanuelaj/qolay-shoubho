@@ -1,0 +1,115 @@
+@font-face {
+    font-family: 'Serto Urhoy';
+    src: url('fonts/SyrCOMUrhoy.eot');
+    src: url('fonts/SyrCOMUrhoy.eot?#iefix') format('embedded-opentype'),
+         url('fonts/SyrCOMUrhoy.woff2') format('woff2'),
+         url('fonts/SyrCOMUrhoy.woff') format('woff'),
+         url('fonts/SyrCOMUrhoy.ttf')  format('truetype'),
+         url('fonts/SyrCOMUrhoy.svg#Serto Urhoy') format('svg');
+}
+
+@font-face {
+    font-family: 'Marhey';
+    src: url('fonts/Marhey-Regular.eot');
+    src: url('fonts/Marhey-Regular.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Marhey-Regular.woff2') format('woff2'),
+         url('fonts/Marhey-Regular.woff') format('woff'),
+         url('fonts/Marhey-Regular.ttf')  format('truetype'),
+         url('fonts/Marhey-Regular.svg#Marhey') format('svg');
+}
+
+body {
+background-color:#FCF3CF
+}
+
+
+@font-face {
+    font-family: 'Reem Kufi';
+    src: url('fonts/ReemKufi-VariableFontwght.eot');
+    src: url('fonts/ReemKufi-VariableFontwght.eot?#iefix') format('embedded-opentype'),
+         url('fonts/ReemKufi-VariableFontwght.woff2') format('woff2'),
+         url('fonts/ReemKufi-VariableFontwght.woff') format('woff'),
+         url('fonts/ReemKufi-VariableFontwght.ttf')  format('truetype'),
+         url('fonts/ReemKufi-VariableFontwght.svg#Reem Kufi') format('svg');
+}
+
+
+.a {
+  background-color: #fbeee0;
+  border: 2px solid #422800;
+  border-radius: 30px;
+  box-shadow: #422800 4px 4px 0 0;
+  color: #422800;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 600;
+  font-size: 18px;
+  padding: 0 18px;
+  line-height: 50px;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  min-width: 120px;
+  padding: 0 25px;
+  margin: 10px 80px;
+  cursor: pointer;
+}
+
+.a:hover {
+  background-color: #fff;
+}
+
+.a:active {
+  box-shadow: #422800 2px 2px 0 0;
+  transform: translate(2px, 2px);
+}
+
+.bttn { 
+   position: fixed;
+   top: 50px;
+   left: 10px;
+   background-color: white;
+  border: 2px solid #422800;
+  border-radius: 30px;
+  color: #422800;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 600;
+  font-size: 25px;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin: 530px 0px;
+  cursor: pointer;
+}
+
+.bttn:hover {
+  background-color: #fff;
+}
+
+.bttn:active {
+  box-shadow: #422800 2px 2px 0 0;
+  transform: translate(2px, 2px);
+}
+
+
+table {
+             margin: -0px 0px;
+         }
+         tr {
+            font-family: 'Serto Urhoy';
+            font-weight: Regular;
+            font-size: 25px;
+            text-align: center;
+            
+        }      
+         th {
+             font-family: 'Marhey';
+             font-size: 16px;
+             text-align: center;
+             background:#FFED86;
+         }  
